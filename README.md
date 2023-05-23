@@ -19,7 +19,7 @@ ProtonVPN is considered as very popular VPN provider and since wireguard protoco
 
 ## NAT-PMP Port Forwarding
 
-One of main disadvantages of protonvpn compared to some other vpn service is port forwarding. Proton released a feature where one port is opened dynamically and changes every 60 seconds. Its use with original ProtonVPN client is made in some way usable. If wireguard's native client is used, then I found [following guide in proton vpn documentation}(https://protonvpn.com/support/port-forwarding-manual-setup/). Following that guide at the time of creation of this document did not work and here I will share some unmentioned information which is at the time of creation of current document not part of that guide.
+One of main disadvantages of protonvpn compared to some other vpn service is port forwarding. Proton released a feature where one port is opened dynamically and changes every 60 seconds. Its use with original ProtonVPN client is made in some way usable. If wireguard's native client is used, then I found [following guide in proton vpn documentation](https://protonvpn.com/support/port-forwarding-manual-setup/). Following that guide at the time of creation of this document did not work and here I will share some unmentioned information which is at the time of creation of current document not part of that guide.
 
 Main problem in guide is that professional will be able to quickly find out why commands do not/can not work, but for normal user this might be unresolable problem especially since there are few parts in that guide which require corrections:
 
